@@ -1,4 +1,4 @@
-# FreakLee.github.io
+# Social Accounts
 
 - [CSDN](https://blog.csdn.net/FreakCoder_Lee?spm=1011.2124.3001.5343)
 - [微信公众号](https://mp.weixin.qq.com/cgi-bin/home?t=home/index&token=1847766636&lang=zh_CN)
