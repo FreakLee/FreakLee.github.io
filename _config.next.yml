@@ -1,0 +1,80 @@
+# Next 主题配置（覆盖 node_modules/hexo-theme-next/_config.yml）
+# 文档: https://theme-next.js.org/docs/
+
+# 主题风格: Muse | Mist | Pisces | Gemini
+scheme: Gemini
+
+# 暗色模式
+darkmode: false
+
+# 菜单
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
+
+# 侧边栏
+sidebar:
+  position: left
+  display: post
+  padding: 18
+  offset: 12
+
+# 头像（将图片放到 source/images/ 目录）
+avatar:
+  url: /images/avatar.png
+  rounded: true
+  rotated: false
+
+# 社交链接（按需填写）
+social:
+  GitHub: https://github.com/FreakLee || fab fa-github
+  #Twitter: https://twitter.com/yourname || fab fa-twitter
+
+# 代码块
+codeblock:
+  theme:
+    light: default
+    dark: stackoverflow-dark
+  copy_button:
+    enable: true
+    style: default
+
+# 回到顶部按钮
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+
+# 阅读进度条
+reading_progress:
+  enable: true
+  position: top
+  color: '#37c6c0'
+  height: 3px
+
+# 本地搜索（需安装 hexo-generator-searchdb）
+# local_search:
+#   enable: true
+
+# 页脚
+footer:
+  since: 2023
+  icon:
+    name: fa fa-heart
+    animated: false
+    color: '#ff0000'
+  copyright: Lyman
+  powered: true
+
+# 文章相关
+post_meta:
+  updated_at:
+    enable: false
+
+# 动画
+motion:
+  enable: true
+  async: false
