@@ -3,7 +3,6 @@ title: Hello Hexo 7
 date: 2026-04-27 19:47:03
 tags:
   - Hexo
-  - 博客
 categories:
   - 技术
 ---

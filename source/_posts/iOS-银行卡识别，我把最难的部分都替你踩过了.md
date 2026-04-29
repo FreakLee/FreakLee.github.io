@@ -6,7 +6,6 @@ tags:
   - Swift
   - OCR
   - Vision
-  - 银行卡
 categories:
   - iOS
 ---
